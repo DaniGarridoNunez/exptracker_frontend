@@ -1,6 +1,6 @@
 ## About The Project
 
-**screenshot**
+![Screenshot from 2024-12-16 12-21-23](https://github.com/user-attachments/assets/85fd86a3-0bce-4c44-9559-8503edfc54a9)
 
 Take control of your finances with this intuitive expense management tool. Set budgets, record expenses, and monitor your spending patterns to make smarter financial decisions and stay within your limits.
 
@@ -28,11 +28,21 @@ This app was designed to be both scalable and user-friendly, offering a modern s
 For those interested in how the project works without having to install it, here are some screenshots showcasing its key features:  
 
 *Login / Register pages*  
-**screenshot**
+![Screenshot from 2024-12-16 12-21-07](https://github.com/user-attachments/assets/b2c65908-266f-4873-a246-17db7b964370)
+![Screenshot from 2024-12-16 12-36-14](https://github.com/user-attachments/assets/1f324503-0d36-4607-8b18-bd4d0d604e5f)
 
 
 *Update your profile data* 
-**screenshot**
+![Screenshot from 2024-12-16 12-22-03](https://github.com/user-attachments/assets/8c864430-a626-4f1e-b7dc-6e72bb3aa0f9)
+![Screenshot from 2024-12-16 12-22-09](https://github.com/user-attachments/assets/d6b4b430-b480-4ba1-8d01-505dfa29750e)
+
+
+*APP*
+![Screenshot from 2024-12-16 12-21-40](https://github.com/user-attachments/assets/66c88c8a-0965-4a63-a182-feb58ddb9359)
+![Screenshot from 2024-12-16 12-21-30](https://github.com/user-attachments/assets/57f17ef9-66d2-4d32-b2e2-4979a1c27302)
+![Screenshot from 2024-12-16 12-21-23](https://github.com/user-attachments/assets/3b991810-c5cc-4f93-bac6-4f395450d682)
+![Screenshot from 2024-12-16 12-21-16](https://github.com/user-attachments/assets/507bcc4e-bdc7-4219-acea-142a94652ea7)
+![Screenshot from 2024-12-16 12-21-46](https://github.com/user-attachments/assets/f608b02a-1975-4693-aa2b-87bae388199b)
 
 
 ## Getting Started
