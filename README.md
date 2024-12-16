@@ -41,7 +41,6 @@ For those interested in how the project works without having to install it, here
 ![Screenshot from 2024-12-16 12-21-16](https://github.com/user-attachments/assets/507bcc4e-bdc7-4219-acea-142a94652ea7)
 ![Screenshot from 2024-12-16 12-21-40](https://github.com/user-attachments/assets/66c88c8a-0965-4a63-a182-feb58ddb9359)
 ![Screenshot from 2024-12-16 12-21-30](https://github.com/user-attachments/assets/57f17ef9-66d2-4d32-b2e2-4979a1c27302)
-![Screenshot from 2024-12-16 12-21-23](https://github.com/user-attachments/assets/3b991810-c5cc-4f93-bac6-4f395450d682)
 ![Screenshot from 2024-12-16 12-21-46](https://github.com/user-attachments/assets/f608b02a-1975-4693-aa2b-87bae388199b)
 
 
